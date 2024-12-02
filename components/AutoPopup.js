@@ -5,7 +5,7 @@ export default function AutoPopup() {
   const [showPopup, setShowPopup] = useState(false);
 
   useEffect(() => {
-    // Show popup when component mounts
+   
     setShowPopup(true);
   }, []);
 

@@ -26,7 +26,7 @@ const Window = ({ title, children, onClose, className }) => {
         </button>
       </div>
 
-      {/* Content Area */}
+   
       <div className="border border-[#808080] p-2">
         {children}
       </div>

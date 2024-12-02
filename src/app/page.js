@@ -114,7 +114,7 @@ export default function Home() {
             <div className=" font-['MS_Sans_Serif']">
               <div className="flex">
                 <img src="/icons/warning.ico" alt="warning" className="w-20 h-20" />
-                <p className="p-2 text-sm mb-4">WARNING: Clicking random memes may lead to instant regret. Get McAifee before getting Whackd!</p>
+                <p className="p-2 text-black text-sm mb-4">WARNING: Clicking random memes may lead to instant regret. Get McAifee before getting Whackd!</p>
               </div>
               <div className="flex justify-center">
                 <button 
@@ -133,11 +133,11 @@ export default function Home() {
             title="McAifee Installation"
             onClose={() => setShowInstallWindow(false)}
             onMinimize={() => setShowInstallWindow(false)}
-            className="w-[500px] h-[300px] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+            className="w-full md:w-[500px] lg:w-[500px] h-[300px] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
           >
             <div className="p-4 font-['MS_Sans_Serif']">
               <div className="mb-4 flex flex-col ">
-                <p className="text-sm mb-2">Rumors says he is back…</p>
+                <p className="text-sm text-black mb-2">Rumors says he is back…</p>
                 <div className="w-full h-5 border border-[#808080] border-r-[#FFFFFF] border-b-[#FFFFFF] bg-[#C0C0C0] p-[2px] mt-2">
                   <div className="h-full bg-[#000080]" style={{width: '45%'}}></div>
                 </div>

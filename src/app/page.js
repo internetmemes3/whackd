@@ -145,7 +145,7 @@ export default function Home() {
               <a href="https://x.com/MCAIFEESOL/status/1857920456210129373" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                 X/Twitter
               </a>
-              <a href="https://t.me/JohnMcAifee" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+              <a href="https://t.me/+XHVZTOHBrnk3NDY5" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                 Telegram
               </a>
               <a href="https://dexscreener.com/solana/Gir3ea5cyVrCsmS1aBY51rhA1QKRh7ZN4DhgmJ4di76g" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
